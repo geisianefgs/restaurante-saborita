@@ -183,10 +183,6 @@ main{
 }
 
 #comida{
-    display: flex;
-    align-items: start;
-    justify-content: end;
-    flex-direction: column;
     margin-top: -170px;
     margin-left: 100px;
 }
@@ -201,29 +197,27 @@ main{
     font-family: "Radley", serif;
 }
 
-#cardapio > img{
+img#baiana{
     width: 350px;
     height: 250px;
     border-radius: 50%;
-}
-
-img#baiana{
-    margin-left: 100px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.534);
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 #paragbaiana{
     font-family: "Radley", serif;
-    font-size: 20px;
-    display: flex;
-    align-items: start;
-    justify-content: start;
-    flex-direction: column;
-    margin-left: 185px;
+    margin-left: 130px;
 }
 
-img#feijoda{
-   
+img#feijoada{
+    width: 350px;
+    height: 250px;
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.534);
+    margin-left: 500px;
+    margin-top: -900px;
 }
 
 footer{
