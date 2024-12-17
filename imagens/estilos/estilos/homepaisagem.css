@@ -1,19 +1,3 @@
-@charset "UTF-8";
-
-@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Cinzel+Decorative:wght@400;700;900&family=Creepster&family=Nosifer&family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Cinzel+Decorative:wght@400;700;900&family=Creepster&family=Nosifer&family=Passion+One:wght@400;700;900&family=Radley:ital@0;1&family=Sriracha&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Cinzel+Decorative:wght@400;700;900&family=Creepster&family=Croissant+One&family=Nosifer&family=Passion+One:wght@400;700;900&family=Radley:ital@0;1&family=Sriracha&display=swap');
-
-body{
-    overflow-x: hidden;
-}
-
-header{
-    width: 100%;
-}
-
 header > img{
     width: 90px;
     height: 90px;
@@ -25,7 +9,7 @@ header > img{
     margin-top: 15px;
     margin-left: 100px;
 }
-   
+
 #homelinks{
     padding-left: 500px;
     display: flex;
@@ -223,6 +207,3 @@ footer{
     width: 100%;
     height: 70vh;
 }
-
-
-
